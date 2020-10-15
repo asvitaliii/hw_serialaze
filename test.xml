@@ -1,0 +1,18 @@
+<test title="Тест на лучшего программиста в мире!)">
+    <question  id="1" text="Какой язык программирования лучший в мире?: " answer="2">
+        <answer text="1. Асемблер"/>
+        <answer text="2. Пайтон"/>
+        <answer text="3. Украинский)"/>
+    </question>
+
+    <question  id="2" text="Каковы его преимущества?: " answer="2">
+        <answer text="1. Цензурирование"/>
+        <answer text="2. Читабельность"/>
+        <answer text="3. Быстодействие"/>
+    </question>
+    <question  id="3" text="Готовы ли Вы его изучать?: " answer="1">
+        <answer text="1. Да"/>
+        <answer text="2. Нет"/>
+        <answer text="3. Помощь зала"/>
+    </question>
+</test>
